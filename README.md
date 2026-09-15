@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
   </a>
-  <a href="www.linkedin.com/in/daniel-ricardo-cruz-ramirez-658300395">
+  <a href="https://www.linkedin.com/in/daniel-ricardo-cruz-ramirez-658300395">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logoColor=white" />
   </a>
 </p>
