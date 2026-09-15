@@ -169,23 +169,6 @@ Collaboration · Learning · Projects
 </table>
 
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"
-    height="165"
-  />
-</p>
-
----
-
 <p align="center">
   <i>Building practical software, learning continuously, and improving one system at a time.</i>
 </p>
